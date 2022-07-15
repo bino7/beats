@@ -122,7 +122,8 @@ setup.kibana:
 # `setup.kibana.host` options.
 # You can find the `cloud.id` in the Elastic Cloud web UI.
 #cloud.id:
-
+cloud.id: "test:YXAtZWFzdC0xLmF3cy5lbGFzdGljLWNsb3VkLmNvbSRjOGEwZGUwMDQ3Mzc0ODdjOGFlNzM1N2E4Y2E2Y2NiOCQyZTE2MjFhZjg0OGQ0ZWVkYTM5YmY4NDM5NDZjMWE0OQ=="
+cloud.auth: "elastic:2CDfMsJw5lAEIvvvfAiwoEHN"
 # The cloud.auth setting overwrites the `output.elasticsearch.username` and
 # `output.elasticsearch.password` settings. The format is `<user>:<pass>`.
 #cloud.auth:
